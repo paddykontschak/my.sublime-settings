@@ -1,0 +1,20 @@
+{
+	"color_scheme": "Packages/Theme - Phoenix/Color Scheme/Tomorrow-Night.tmTheme",
+	"font_face": "Ubuntu mono",
+	"font_size": 14.0,
+	"highlight_line": true,
+	"phoenix_color_expanded_folder": true,
+	"phoenix_color_orange": true,
+	"phoenix_dirty_bottom_bar": true,
+	"phoenix_dirty_bottom_bar_orange": true,
+	"phoenix_solid_current_tab": true,
+	"phoenix_tabs_auto_width": true,
+	"phoenix_tabs_small": true,
+	"scroll_past_end": true,
+	"tab_size": 2,
+	"theme": "Phoenix Dark.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"word_wrap": false,
+	"ignored_packages": [],
+	"vintage_start_in_command_mode": true
+}
