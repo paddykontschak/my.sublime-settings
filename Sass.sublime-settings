@@ -1,0 +1,7 @@
+{
+  "filename_syntax_settings":
+  [
+    ["\\.scss", "Sass", "i"],
+    ["\\.sass", "Sass", "i"]
+  ]
+}

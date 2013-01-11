@@ -1,0 +1,3 @@
+{
+    "command"   :  ["osascript", "~/.MacTerminal.scpt"]
+}
